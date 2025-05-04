@@ -8,47 +8,36 @@
 
 ---
 
-## ✅ Завдання
+## Завдання
 
-### 1. Створення нової сутності `Post`
-
-![Post Entity](https://github.com/user-attachments/assets/3504aa3e-bf7d-4269-bee6-a6dcf41746e0)
+### 1. Створення нової сутності `Post`  
+![Скріншот 1](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/1.png?raw=true)
 
 ---
 
 ### 2. Створення та виконання міграції
-
 - Створити міграцію для сутності `Post`
 - Виконати міграцію:
 
-![Migration Command](https://github.com/user-attachments/assets/019e3f13-eba5-47ab-81df-a00165471c5d)
+![Скріншот 2](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/2.png?raw=true)
 
 - Перевірити результат виконання через IDE:
 
-![DB State](https://github.com/user-attachments/assets/92f422b5-06c7-47fb-ac14-d448b88cde2c)
+![Скріншот 3](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/3.png?raw=true)
 
 ---
 
 ### 3. Реалізація REST API (CRUD для `Post`)
+- Створити контролер та сервіси  
+- Налаштувати маршрути відповідно до REST принципів  
 
-- Створити контролер та сервіси
-- Налаштувати маршрути відповідно до REST принципів
-
-![API Screenshot 1](https://github.com/user-attachments/assets/33569abb-74fd-41c2-943e-d03abef9d75d)
-
-![API Screenshot 2](https://github.com/user-attachments/assets/cba1e9e7-e47e-47a8-9ff1-ecfb5e4d4773)
+![Скріншот 4](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/4.png?raw=true)  
+![Скріншот 5](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/5.png?raw=true)
 
 ---
 
 ### 4. Тестування через Postman
+- Додати нові ендпоінти до колекції Postman  
+- Протестувати всі CRUD-операції  
 
-- Додати нові ендпоінти до колекції Postman
-- Протестувати всі CRUD-операції:
-
-![Postman](https://github.com/user-attachments/assets/117a9ece-ce57-4236-bb01-219231823238)
-
----
-
-
-
-
+![Скріншот 6](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/6.png?raw=true)
