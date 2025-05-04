@@ -11,26 +11,21 @@
 
 ## Завдання
 
-### 1. Створення та вкладення компонентів
-
-![Компоненти](https://github.com/user-attachments/assets/d1df54ee-6cd7-42f5-9eb7-09558c40505e)
-
----
-
-### 2. Створення розмітки за допомогою JSX, Відображення даних, Додавання стилів
-
-![JSX та стилі](https://github.com/user-attachments/assets/8dbbbbc1-97da-4880-8ebd-8f997644049f)
+### 1. Створення та вкладення компонентів  
+![Скріншот 1](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/1.png?raw=true)
 
 ---
 
-### 3. Відображення списків та обробка подій
+### 2. Створення розмітки за допомогою JSX, Відображення даних, Додавання стилів  
+![Скріншот 2](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/2.png?raw=true)
 
-![Списки і події](https://github.com/user-attachments/assets/c866deb7-cdf0-4fe6-9974-f5f41a72048b)
+---
+
+### 3. Відображення списків та обробка подій  
+![Скріншот 3](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/3.png?raw=true)
 
 ---
 
-### Результат
+### Результат  
+![Скріншот 4](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/4.png?raw=true)
 
-![Результат](https://github.com/user-attachments/assets/56911601-73ab-4293-806b-8603d212cc9a)
-
----
