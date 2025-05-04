@@ -9,7 +9,7 @@
 
 ---
 
-##  Завдання
+## Завдання
 
 На основі boilerplate-проєкту [`vite-react-boilerplate`](https://github.com) реалізувати UI для роботи з сутністю `Post`, яка була створена у попередньому занятті.
 
@@ -23,11 +23,11 @@
 - Кнопка **"Створити новий екземпляр"** → `/posts/new`
 - Реалізація **видалення** елементів (із підтвердженням дії)
 
-![UI Posts 1](https://github.com/user-attachments/assets/936ce9fc-cec8-4c13-b17f-e1d28bab476f)
-![UI Posts 2](https://github.com/user-attachments/assets/db9c857d-5852-48e8-a99c-afd1647c2cdb)
-![UI Posts 3](https://github.com/user-attachments/assets/5574a39d-17ca-4d5c-bcad-f776711a17cc)
-![UI Posts 4](https://github.com/user-attachments/assets/633ca7f1-653f-435c-8607-23b05b2709b3)
-![UI Posts 5](https://github.com/user-attachments/assets/32b486c1-6c6f-447c-b22a-dff210241030)
+![1](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/1.png?raw=true)
+![2](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/2.png?raw=true)
+![3](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/3.png?raw=true)
+![4](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/4.png?raw=true)
+![5](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/5.png?raw=true)
 
 ---
 
@@ -44,19 +44,18 @@
 - Форма з порожніми полями
 - Кнопка **Create** для збереження нового поста
 
-![UI Edit](https://github.com/user-attachments/assets/b10215b0-96f9-43de-b23f-74587b79bb56)
-![UI Create](https://github.com/user-attachments/assets/247d645d-b6c7-42cd-8d1c-50737a91ea40)
+![6](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/6.png?raw=true)
+![7](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/7.png?raw=true)
 
 ---
 
-###  Результат
+### Результат
 
-![Result 1](https://github.com/user-attachments/assets/64822311-1c0f-49c9-9f1e-14dfcd12ad23)
-![Result 2](https://github.com/user-attachments/assets/34cd28c8-2afe-487d-a876-b1206ad05a5f)
-![Result 3](https://github.com/user-attachments/assets/29ed939b-1f20-4453-8ffb-f40d924527a4)
-![Result 4](https://github.com/user-attachments/assets/4ddd7de4-db6b-4613-a3f0-2779e311d8f6)
-![Result 5](https://github.com/user-attachments/assets/810519cd-9b6f-40d6-bd43-32c6756e0f3f)
-![Result 6](https://github.com/user-attachments/assets/dbf1fc80-65f8-4331-9ae5-f8245d5a2856)
+![8](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/8.png?raw=true)
+![9](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/9.png?raw=true)
+![10](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/10.png?raw=true)
+![11](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/11.png?raw=true)
+![12](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/12.png?raw=true)
+![13](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/13.png?raw=true)
 
----
  
